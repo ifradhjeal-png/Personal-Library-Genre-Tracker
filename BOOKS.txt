@@ -1,0 +1,5 @@
+Dune, Frank Herbert, 412, Sci-Fi
+1984, George Orwell, 328, Dystopian
+The Hobbit, J.R.R. Tolkien, 310, Fantasy
+Neuromancer, William Gibson, 271, Sci-Fi
+Fahrenheit 451, Ray Bradbury, 256, Dystopian

@@ -1,0 +1,5 @@
+Total Books is : 5
+Unique Genres : 
+{' Fantasy', ' Sci-Fi', ' Dystopia', ' Dystopian'}
+Genre Breakdown : 
+{' Sci-Fi': 2, ' Dystopian': 2, ' Fantasy': 1}
